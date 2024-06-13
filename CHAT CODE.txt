@@ -11,3 +11,7 @@ Author: Sophia
 4. Attachments(Image, Audio, video, document) code
 
 5. Hiding Chat history
+
+Adding the Audio call feature
+
+Adding the Vidoe call feature
