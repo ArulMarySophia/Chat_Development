@@ -1,0 +1,11 @@
+THIS IS CHAT CODE:
+
+Author: Sophia
+
+1. Profile page code
+
+2. Chat Screen code
+
+3. Last Seen code
+
+4. Attachments(Image, Audio, video, document) code
