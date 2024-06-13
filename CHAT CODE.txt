@@ -9,3 +9,5 @@ Author: Sophia
 3. Last Seen code
 
 4. Attachments(Image, Audio, video, document) code
+
+5. Hiding Chat history
